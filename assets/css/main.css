@@ -4165,3 +4165,7 @@ src: local('Champagne & Limousines Bold'), url('../fonts/Champagne & Limousines.
 		}
 
 	}
+
+.fancybox-slide--iframe .fancybox-content {
+	height:80% !important;
+}
